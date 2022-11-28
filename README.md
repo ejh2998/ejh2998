@@ -1,5 +1,5 @@
 -  Hi, I’m Evan Hope @ejh2998
--  I’m interested in Applicatoin development, full-stack web development, and particularly interested in backend business logic.
+-  I’m interested in Application development, full-stack web development, and particularly interested in backend business logic.
 -  I’m currently learning Node.js, React, and furthering my Python and Java knowledge.
 -  I’m looking to collaborate on any and everyting to gain experience. I would love to contribute to your open-source projects!
 -  How to reach me at my email: live.pythonic@gmail.com
